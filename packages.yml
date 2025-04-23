@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/honeydew-ai/honeydew-dbt.git"
+    revision: "latest"

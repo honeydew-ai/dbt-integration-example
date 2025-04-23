@@ -24,3 +24,8 @@ models:
       materialized: table
       staging:
         materialized: view
+
+vars:
+  "honeydew:workspace": "jaffle_shop"
+  "honeydew:branch": "prod"
+  "honeydew:snowflake_native_app_name": "SEMANTIC_LAYER_ENTERPRISE_EDITION"
